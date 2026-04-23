@@ -35,6 +35,7 @@ Provides governed list-view assembly for admin surfaces so resource indexes, fil
 | Package ID | `admin-listview` |
 | Display Name | Admin List View |
 | Import Name | `@platform/admin-listview` |
+| Canonical Namespace Target | `@gutu/admin-listview` |
 | Version | `0.1.0` |
 | UI Surface | Headless typed exports |
 | Consumption Model | Imports + typed helpers |
@@ -48,6 +49,7 @@ Provides governed list-view assembly for admin surfaces so resource indexes, fil
 | Dev Dependencies | None |
 | React Runtime | No |
 | Workspace Scoped | Yes |
+| Legacy Compatibility IDs | `@platform/admin-listview` |
 
 ### Dependency interpretation
 

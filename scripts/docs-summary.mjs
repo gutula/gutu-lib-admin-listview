@@ -3,6 +3,7 @@ const summary = {
   "repoName": "gutu-lib-admin-listview",
   "packageId": "admin-listview",
   "displayName": "Admin List View",
+  "packageCount": 1,
   "group": "Admin Experience",
   "maturity": "Hardened",
   "description": "List view DSLs, saved views, and resource-derived admin table helpers.",
